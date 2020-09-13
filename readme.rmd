@@ -1,0 +1,2 @@
+# My Python learning path
+This file contains my journey in learning python
